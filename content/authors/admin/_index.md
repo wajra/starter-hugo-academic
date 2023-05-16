@@ -49,5 +49,5 @@ first_name: Jeewantha
 email: ""
 ---
 
-Jeewantha Bandara is a PhD student/Graduate Assistant at Rutgers University. He is a member of both the Wiedenmann lab and (Global Change Biology Lab)[https://pinsky.marine.rutgers.edu/]. His research interests are in species biogeography (including species distribution modeling and range responses of populations to climate change), population dynamics in fisheries, and fisheries management strategies. 
+Jeewantha Bandara is a PhD student/Graduate Assistant at Rutgers University. He is a member of both the Wiedenmann lab and Global Change Biology Lab. His research interests are in species biogeography (including species distribution modeling and range responses of populations to climate change), population dynamics in fisheries, and fisheries management strategies. 
 {style="text-align: left;"}
