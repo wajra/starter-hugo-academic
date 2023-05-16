@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Writing technical content in Markdown - Jeewantha Bandara
 date: 2019-07-12
 math: true
 image:
