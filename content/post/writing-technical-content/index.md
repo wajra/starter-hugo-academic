@@ -9,7 +9,7 @@ image:
   filename: featured.jpg
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest. Hopefully I have an idea of what I'm doing
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
