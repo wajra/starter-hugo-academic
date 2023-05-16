@@ -2,9 +2,9 @@
 bio: My research interests include marine species biogeography, fisheries
   population modeling, and development of management strategy evaluation tools.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Species Biogeography
+  - Fisheries Management
+  - Population Dynamics
 social:
   - icon: envelope
     icon_pack: fas
