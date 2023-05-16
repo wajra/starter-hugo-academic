@@ -11,46 +11,43 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: [https://twitter.com/GeorgeCushen](https://twitter.com/wajrajeew)
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/wajra/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rutgers University
+    url: https://www.rutgers.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Ecology and Evolution
+      institution: Rutgers University
+      year: 2025 (Expected)
+    - course: MS in Ecology and Evolution
+      institution: Rutgers University
+      year: 2021
+    - course: BSc in Biological Sciences (Zoology Major)
+      institution: University of Colombo
+      year: 2017
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Bandara
 role: Graduate Assistant / PhD Student
 highlight_name: true
 title: Jeewantha Bandara
-first_name: Alice
+first_name: Jeewantha
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jeewantha Bandara is a PhD student/Graduate Assistant at Rutgers University. He is a member of both the Wiedenmann lab and (Global Change Biology Lab)[https://pinsky.marine.rutgers.edu/]. His research interests are in species biogeography (including species distribution modeling and range responses of populations to climate change), population dynamics in fisheries, and fisheries management strategies. 
 {style="text-align: justify;"}
